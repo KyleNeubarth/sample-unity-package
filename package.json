@@ -1,0 +1,11 @@
+{
+    "name": "com.kosm.unity-package-template",
+    "displayName": "Kyle's Unity package template",
+    "version": "1.0.0",
+    "description": "Template for creating Unity game engine packages, except that Kyle made this one.",
+    "author": {
+        "name": "Kyle Neubarth",
+        "email": "kyle@neubarth.org",
+        "url": ""
+    }
+  }
