@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Kosm.tools
+namespace kosm.tools
 {
     public class SampleToolkit : MonoBehaviour
     {
